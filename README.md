@@ -10,6 +10,8 @@ A simple programming exercise for the evening
 All numbers on an infinite grid that extends in all four directions can be
 identified with a single number in the following manner:
 
+
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 36 | 35 | 34 | 33 | 32 | 31 | 30 |
 | 37 | 16 | 15 | 14 | 13 | 12 | 29 |
 | 38 | 17 | 4 | 3 | 2 | 11 | 28 |
