@@ -1,5 +1,8 @@
 # Spiral index implementation
 
+[![Build Status](https://travis-ci.org/chibby0ne/spiral_index.svg?branch=master)](https://travis-ci.org/chibby0ne/spiral_index)
+[![Coverage Status](https://coveralls.io/repos/github/chibby0ne/spiral_index/badge.svg?branch=master)](https://coveralls.io/github/chibby0ne/spiral_index?branch=master)
+
 A simple programming exercise for the evening
 
 ## Problem statement
