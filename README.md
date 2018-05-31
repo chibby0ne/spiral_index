@@ -49,8 +49,9 @@ Using coordinates x=3, y=2
 
 ## Complexity
 
-Given coordinates (i, j), and the max(i, j), i.e the max value of a given pair
-of coordinates referred to as n:
+Given coordinates `(i, j)`, and the `max(i, j)`, i.e the max value of a given pair
+of coordinates referred to as `n`:
 
-Time complexity: O(n)
-Space complexity: O(1)
+Time complexity: `O(n)`
+
+Space complexity: `O(1)`

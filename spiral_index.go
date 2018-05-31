@@ -113,7 +113,7 @@ func calculateValueFromCoordinate(coord *coordinates) int {
         addValue++
     }
 
-    // bottom side, from left bottom corner to left bottom corner
+    // bottom side, from left bottom corner to right bottom corner
     for i := currentCoord.x + 1; i <= ringNumber; i++ {
         currentCoord.x = i
         if isSameCoordinate(coord, currentCoord) {
